@@ -42,7 +42,7 @@ Conçue pour centraliser en un seul endroit vos liens web, fichiers et dossiers 
 Aucune installation requise. Ouvrez simplement l'URL dans votre navigateur :
 
 ```
-https://mayor-msp.github.io/mes-liens/
+https://lifekits.github.io/mes-liens/
 ```
 
 Pour un accès rapide, ajoutez-la à votre écran d'accueil :
