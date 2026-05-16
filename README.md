@@ -30,7 +30,7 @@ Ce gestionnaire regroupe vos sites préférés dans des sections claires pour ou
 - 📱 **Compatible mobile** — interface adaptée avec boutons de navigation tactile en mode édition
 - 💾 **Sauvegarde automatique** — chaque modification est instantanément enregistrée dans votre navigateur
 - 📤 **Exporter liens / Importer liens** — transférez vos liens entre appareils
-- 📶 **Mode hors-ligne (PWA)** — l'application fonctionne sans internet après la première visite sur l'url https://lifekits.github.io/mes-liens/
+- 📶 **Mode hors-ligne (PWA)** — l'application fonctionne sans internet après la première visite sur l'url
 
 ---
 
@@ -39,7 +39,7 @@ Ce gestionnaire regroupe vos sites préférés dans des sections claires pour ou
 Aucune installation requise. Ouvrez simplement l'URL dans votre navigateur :
 
 ```
-https://lifekits.github.io/mes-liens/
+https://richardmaire.github.io/mes-liens/
 ```
 
 Pour un accès rapide, ajoutez-la à votre écran d'accueil :
@@ -92,13 +92,13 @@ Tapez simplement le nom de l'application dans le champ URL :
 | `vscode` | Visual Studio Code |
 | `spotify` | Spotify |
 
-> Ces raccourcis fonctionnent uniquement pour les applications listées ci-dessus, à condition qu'elles soient installées sur votre ordinateur. Il n'est pas possible de lancer d'autres applications ou fichiers `.exe` directement depuis Mes Liens.
+> Ces raccourcis fonctionnent uniquement pour les applications listées ci-dessus, à condition qu'elles soient installées sur votre ordinateur. Il n'est pas possible de lancer d'autres applications ou fichiers `.exe`
 
 ---
 
 ## 🔄 Mise à jour
 
-Lorsque vous ouvrez l'application, elle est toujours à jour automatiquement. Aucune action requise de votre côté.
+Lorsque vous ouvrez l'application, elle est toujours à jour automatiquement. Aucune action requise de votre côté
 
 ---
 
@@ -111,4 +111,4 @@ Lorsque vous ouvrez l'application, elle est toujours à jour automatiquement. Au
 
 ## 📄 Licence
 
-Libre d'utilisation et de modification.
+Libre d'utilisation et de modification
