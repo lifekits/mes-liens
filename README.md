@@ -1,4 +1,4 @@
-# ➚ Mes Liens
+# 🔗 Mes Liens
 > Organisez vos Liens Internet par catégories
 
 ![Version](https://img.shields.io/badge/version-1.0-blue) ![PWA](https://img.shields.io/badge/PWA-offline%20ready-brightgreen) ![Licence](https://img.shields.io/badge/licence-libre-green)
